@@ -1,36 +1,27 @@
-## License, Permitted Use and Intellectual Property Notice
+PROPRIETARY AND CONFIDENTIAL LICENSE AGREEMENT
 
-> [!IMPORTANT]
-> **END-USER SERVICE ACCESS PERMITTED | ZERO CODE RIGHTS GRANTED**
-> All software, architecture, system design, and brand identity are the exclusive proprietary property of **RudraX Technologies Studio**, operating under the executive leadership of founder **Rudra Parmar**.
+Copyright (c) 2025-2026 RudraX Technologies Studio.
+All Rights Reserved.
+Founder & Lead: Rudra Parmar.
 
----
+NOTICE TO ALL USERS:
+This software, including its source code, architecture, system design, and brand identity, contains trade secrets and proprietary information owned exclusively by RudraX Technologies Studio.
 
-### Permitted Usage (What You CAN Do)
-* **Service Consumption:** Users and clients are fully authorized and welcome to safely use, interact with, and consume the live services and tools provided by RudraX Technologies Studio.
-* **Standard End-User Access:** Utilizing the officially deployed web apps, developer services, and endpoints strictly for their intended functional purpose.
+1. GRANT OF RESTRICTED ACCESS:
+Users and clients are granted only a non-exclusive, non-transferable, revocable right to access and use the deployed services through designated end-user interfaces strictly for intended functional purposes. ZERO SOURCE CODE RIGHTS ARE GRANTED.
 
----
+2. STRICT PROHIBITIONS:
+Under no circumstances may any user, party, or entity:
+a. Copy, clone, reproduce, scrape, mirror, or redistribute the source code, repository, or underlying infrastructure, in whole or in part.
+b. Decompile, disassemble, reverse engineer, decrypt, or create derivative works based on this software.
+c. Rebrand, use, or display the "RudraX" name, logo, trademarks, or brand identity without prior express written permission.
+d. Tamper with, bypass, or circumvent any security measures, access controls, or the RudraX IP-Guard architecture.
 
-### Strict Restrictions (What You CANNOT Do)
-No intellectual property, ownership, or licensing rights are transferred to any user. The following actions are strictly prohibited:
-* **NO Code Copying or Cloning:** You may not copy, duplicate, or clone any part of the repository, source code, or infrastructure.
-* **NO Modifications or Tampering:** You are strictly forbidden from altering, modifying, reverse-engineering, decompiling, or creating derivative works from our software or tools.
-* **NO Asset or Brand Scraping:** Rebranding, unauthorized redistributing, or using the "RudraX" brand/identity is strictly prohibited.
-* **NO Bypassing Systems:** Any attempt to tamper with security layers, including the **RudraX IP-Guard** protection architecture, is a direct violation.
+3. INTELLECTUAL PROPERTY OWNERSHIP:
+100% of all worldwide rights, titles, ownership, copyrights, patents, and intellectual property interests remain permanently and exclusively with RudraX Technologies Studio.
 
----
+4. LEGAL ENFORCEMENT & DMCA TAKEDOWN:
+Any violation, unauthorized reproduction, or distribution of this proprietary software constitutes direct copyright infringement and will result in immediate legal action, including but not limited to zero-notice DMCA takedown notices, statutory damages, and civil/criminal litigation under applicable global intellectual property laws.
 
-### Immediate DMCA and Zero-Notice Legal Enforcement
-* **Absolute Ownership Retention:** 100% of all global rights, patents, copyrights, and operational control remain permanently with RudraX Technologies Studio.
-* **Instant DMCA Strike:** Any unauthorized code usage, repository mirroring, or file modification will be met with an immediate **DMCA Takedown and legal copyright strike without preliminary warning or email notices**.
-
----
-
-### Complete Security and Proprietary Policy
-To review the central cryptographic records and official master license file:
-
-**[Official RudraX Central Security & License Hub](https://github.com/RudraX-Technologies-Studio/SECURE-RUDRAX-TECHNOLOGIES-STUDIO
-
----
-(C) 2025-2026 RudraX Technologies Studio. All Rights Reserved. Directed by Rudra Parmar.
+Official Master Security & License Policy:
+https://github.com/RudraX-Technologies-Studio/SECURE-RUDRAX-TECHNOLOGIES-STUDIO
